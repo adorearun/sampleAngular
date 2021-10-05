@@ -1,0 +1,2 @@
+# sampleAngular
+nx based angular
